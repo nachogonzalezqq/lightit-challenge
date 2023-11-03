@@ -38,8 +38,8 @@
 
 ### Libraries Used
 
-- **Formik**: I chose Formik to handle form validation because it provides a very straightforward implementation that allows to perform for validation and show custom error messages very easily.
+- **Formik**: I chose Formik for form validation because it offers a straightforward implementation that allows for easy form validation and displays custom error messages.
 
-- **react-native-toast-message**: For simplicity, I decided to use this library to show messages to the user. For a more complex application I'd probably try to develop my own toast component to adapt it both visually and it's behaviour to my needs.
+- **react-native-toast-message**: For simplicity, I decided to use this library to show messages to the user. For a more complex application I'd probably try to develop my own toast component to better adapt its visuals and behavior to my needs.
 -  **Redux**: I decided to use Redux for state management. Although it may be a little 'overkill' for this project, it provides a very easy implementation and allows us to easily handle our application behaviour for API requests.
 
